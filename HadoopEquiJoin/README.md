@@ -6,7 +6,7 @@ Logic:
             4: 'S, 4, 22000, 7000, part1'}
 
     Reduce: Obtain all values for a key and combine each row from table1 with each row in table2 
-    Exclude elemnts which have only 1 element in values list.
+    Exclude elements which have only 1 element in values list.
         Eg: Input 
             {2: ['R, 2, Don, Larson, Newark, 555-3221','S, 2, 20000, 1800, part1']
             4:  ['S, 4, 22000, 7000, part1']}
